@@ -5,7 +5,9 @@ This repo provides a 3D model, suitable for printing, of an enclosure for the Hi
 ## Content
 
 photos/ - A few pictures of the printed product.
+
 STLs/ - Exported STL files for providing to the 3D printer.
+
 SI5.blend1 - The original Blender 3D model.
 
 ## Attribution
