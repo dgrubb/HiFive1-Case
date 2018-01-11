@@ -2,6 +2,8 @@
 
 This repo provides a 3D model, suitable for printing, of an enclosure for the HiFive1 development board. The HiFive1 is closely modelled on the Arduino Uno but has push buttons and a mirco-USB connector so doesn't quite fit into Uno cases.
 
+![HiFive1-Case](./photos/collection.png)
+
 ## Content
 
 photos/ - A few pictures of the printed product.
